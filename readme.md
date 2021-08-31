@@ -68,8 +68,7 @@
   </a>  -->
 </p>
 
-## Hi there, I'm Gema Fajar Ramadhan
-I am Web Developer and i am ready to freelance. Find out more about me & feel free to connect with me here:
+## Hi there, I'm Gema Fajar Ramadhan:
 
 <a href="https://instagram.com/gemafajar04">
   <img align="left" alt="gemafajar04" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
