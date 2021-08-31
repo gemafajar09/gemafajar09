@@ -1,4 +1,10 @@
 
+
+
+![Gema's github stats](https://github-readme-stats.vercel.app/api?username=gemafajar09&show_icons=true&theme=vision-friendly-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemafajar09&layout=compact&theme=vision-friendly-dark)](https://github.com/gemafajar09/github-readme-stats) 
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gemafajar09)
+
 <h3 align="left">Bahasa pemograman:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank"> 
@@ -73,7 +79,3 @@ I am Web Developer and i am ready to freelance. Find out more about me & feel fr
 </a>
 
 <br><br>
-
-![Gema's github stats](https://github-readme-stats.vercel.app/api?username=gemafajar09&show_icons=true&theme=vision-friendly-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemafajar09&layout=compact&theme=vision-friendly-dark)](https://github.com/gemafajar09/github-readme-stats) 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gemafajar09)
