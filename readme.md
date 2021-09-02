@@ -1,8 +1,6 @@
 
 ## Hallo, Gema Fajar Ramadhan:
 
-<br><br>
-
 ![Gema's github stats](https://github-readme-stats.vercel.app/api?username=gemafajar09&show_icons=true&theme=vision-friendly-light) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemafajar09&layout=compact&theme=vision-friendly-light)](https://github.com/gemafajar09/github-readme-stats) 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gemafajar09)
@@ -15,6 +13,7 @@
   <img align="left" alt="Gema Fajar Ramadhan" width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
 </a>
 
+<br><br>
 
 <h3 align="left">Bahasa pemograman:</h3>
 <p align="left"> 
