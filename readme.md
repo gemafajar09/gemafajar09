@@ -1,5 +1,14 @@
 
+## Hallo, Gema Fajar Ramadhan:
 
+<a href="https://instagram.com/gemafajar04">
+  <img align="left" alt="gemafajar04" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+</a>
+<a href="https://wa.me/6282122855458" target="_blank">
+  <img align="left" alt="Gema Fajar Ramadhan" width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
+</a>
+
+<br><br>
 
 ![Gema's github stats](https://github-readme-stats.vercel.app/api?username=gemafajar09&show_icons=true&theme=vision-friendly-light) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemafajar09&layout=compact&theme=vision-friendly-light)](https://github.com/gemafajar09/github-readme-stats) 
 
@@ -68,13 +77,4 @@
   </a>  -->
 </p>
 
-## Hi there, I'm Gema Fajar Ramadhan:
 
-<a href="https://instagram.com/gemafajar04">
-  <img align="left" alt="gemafajar04" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-</a>
-<a href="https://wa.me/6282122855458" target="_blank">
-  <img align="left" alt="Gema Fajar Ramadhan" width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
-</a>
-
-<br><br>
