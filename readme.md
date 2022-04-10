@@ -1,9 +1,8 @@
 
 ## Gema Fajar Ramadhan:
 
-<div style="float:left">
   ![Gema's github stats](https://github-readme-stats.vercel.app/api?username=gemafajar09&show_icons=true&theme=vision-friendly-light) 
-</div>
+
 
 <div style="float:right">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemafajar09&layout=compact&theme=vision-friendly-light)](https://github.com/gemafajar09/github-readme-stats) 
