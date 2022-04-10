@@ -8,16 +8,6 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gemafajar09)
 
-<h3 align="left">Media Sosial </h3>
-<a href="https://instagram.com/gemafajar04">
-  <img align="left" alt="gemafajar04" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-</a>
-<a href="https://wa.me/6282122855458" target="_blank">
-  <img align="left" alt="Gema Fajar Ramadhan" width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
-</a>
-
-<br>
-
 <hr>
 <p align="left"> 
   
