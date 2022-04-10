@@ -1,9 +1,13 @@
 
 ## Gema Fajar Ramadhan:
 
-![Gema's github stats](https://github-readme-stats.vercel.app/api?username=gemafajar09&show_icons=true&theme=vision-friendly-light) 
+<div style="float:left">
+  ![Gema's github stats](https://github-readme-stats.vercel.app/api?username=gemafajar09&show_icons=true&theme=vision-friendly-light) 
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemafajar09&layout=compact&theme=vision-friendly-light)](https://github.com/gemafajar09/github-readme-stats) 
+<div style="float:right">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemafajar09&layout=compact&theme=vision-friendly-light)](https://github.com/gemafajar09/github-readme-stats) 
+</div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gemafajar09)
 
