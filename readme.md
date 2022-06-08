@@ -66,6 +66,14 @@
   <a href="https://go.dev" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" alt="express" width="40" height="40"/> 
   </a> 
+  
+  <a href="https://firebase.google.com/?hl=id" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" alt="express" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.codeigniter.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/codeigniter/codeigniter-plain.svg" alt="express" width="40" height="40"/> 
+  </a> 
 
 </p>
 
