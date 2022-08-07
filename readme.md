@@ -10,6 +10,7 @@
 <!-- <p align="center">
   <img src="https://github.com/gemafajar09/rock12231/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> -->
+<hr>
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gemafajar09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="gemafajar09" />
