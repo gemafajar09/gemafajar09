@@ -18,6 +18,18 @@
   <img src="https://github.com/rock12231/rock12231/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rock12231&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="rock12231" />
+</p>
+
+<p align='center'>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rock12231&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="rock12231" />
+</p>
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rock12231&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="rock12231">
+</p>
+
 <hr>
 <p align="left"> 
   
