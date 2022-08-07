@@ -6,28 +6,21 @@
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
-<!--   ![Gema's github stats](https://github-readme-stats.vercel.app/api?username=gemafajar09&show_icons=true&theme=vision-friendly-light) 
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemafajar09&layout=compact&theme=vision-friendly-light)](https://github.com/gemafajar09/github-readme-stats) 
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gemafajar09) -->
-
 <br>
-<p align="center">
-  <img src="https://github.com/rock12231/rock12231/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<!-- <p align="center">
+  <img src="https://github.com/gemafajar09/rock12231/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p> -->
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gemafajar09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="gemafajar09" />
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gemafajar09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="rock12231" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gemafajar09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="gemafajar09" />
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gemafajar09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="rock12231" />
-</p>
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gemafajar09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="rock12231">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gemafajar09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="gemafajar09">
 </p>
 
 <hr>
